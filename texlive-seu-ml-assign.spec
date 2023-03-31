@@ -1,6 +1,6 @@
 Name:		texlive-seu-ml-assign
 Version:	62933
-Release:	1
+Release:	2
 Summary:	Southeast University Machine Learning Assignment template
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/seu-ml-assign
