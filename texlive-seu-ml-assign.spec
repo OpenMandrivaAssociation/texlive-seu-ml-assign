@@ -3,7 +3,7 @@ Version:	62933
 Release:	2
 Summary:	Southeast University Machine Learning Assignment template
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/seu-ml-assign
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/seu-ml-assign
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/seu-ml-assign.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/seu-ml-assign.doc.r%{version}.tar.xz
